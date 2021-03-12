@@ -1,0 +1,6 @@
+build
+1. compile hl.asm using codex compilerthe boot sector
+2. format diskett b: empty to restart file list 
+3. copy all files into b: neaded ,#.com command com program and wat you need
+4. write bootable hl.com into 512 bytes of sector number 1 using my.bat  hl.com and debug.com must be in directory of my.bat in a: disk ,the dosbox must be run inside a command line command.com like freedos command.com
+5. change bios to start up on diskett bootable

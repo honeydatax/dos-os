@@ -1,0 +1,3 @@
+list to do bootable hl.img in dosbox
+
+boot hl.img
